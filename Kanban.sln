@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Data", "Kanban.Data\Kanban.Data.csproj", "{35EE4839-E50E-4069-9151-4B6EF84BF25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Data.SqlServer", "Kanban.Data.SqlServer\Kanban.Data.SqlServer.csproj", "{0E68FC19-05CF-4DC9-ACC4-CB452D0E0D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EE4839-E50E-4069-9151-4B6EF84BF25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EE4839-E50E-4069-9151-4B6EF84BF25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EE4839-E50E-4069-9151-4B6EF84BF25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EE4839-E50E-4069-9151-4B6EF84BF25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E68FC19-05CF-4DC9-ACC4-CB452D0E0D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E68FC19-05CF-4DC9-ACC4-CB452D0E0D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E68FC19-05CF-4DC9-ACC4-CB452D0E0D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E68FC19-05CF-4DC9-ACC4-CB452D0E0D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
